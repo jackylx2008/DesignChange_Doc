@@ -5,6 +5,9 @@
 !*.py
 !*.md
 
+# 保留 requirements.txt
+!requirements.txt
+
 # 保留目录（以便递归搜索 .py 文件）
 !*/
 
